@@ -30,8 +30,14 @@ Para el archivo donde se puede leer el **Sudoku** debe de tener el nombre y la e
 
 ```
 
+####ScreenShots:
+
+![alt tag](https://github.com/saenzzzup/Sudoku_and_8_Queens/blob/master/screenshots/queens.png)
+
+![alt tag](https://github.com/saenzzzup/Sudoku_and_8_Queens/blob/master/screenshots/sudoku.png)
+
 ####Solution:
 	[MITCHELL JOHNSON](https://spin.atomicobject.com/2012/06/18/solving-sudoku-in-c-with-recursive-backtracking/).
 
 ####Authors:
-** 	Ricardo Sáenz Barragán**
+*Ricardo Sáenz Barragán*

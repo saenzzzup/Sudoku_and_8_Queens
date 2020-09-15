@@ -3,7 +3,7 @@
 ## Implementación de recursividad 
 Solución recursíva en python de un Sudoku y el problema de las 8 Reinas.
 
-####How to run:
+#### How to run:
 
 ```
 	python3 index.py -t NReinas
@@ -30,14 +30,14 @@ Para el archivo donde se puede leer el **Sudoku** debe de tener el nombre y la e
 
 ```
 
-####ScreenShots:
+#### ScreenShots:
 
 ![alt tag](https://github.com/saenzzzup/Sudoku_and_8_Queens/blob/master/screenshots/queens.png)
 
 ![alt tag](https://github.com/saenzzzup/Sudoku_and_8_Queens/blob/master/screenshots/sudoku.png)
 
-####Solution:
+#### Solution:
 	[MITCHELL JOHNSON](https://spin.atomicobject.com/2012/06/18/solving-sudoku-in-c-with-recursive-backtracking/).
 
-####Authors:
+#### Authors:
 *Ricardo Sáenz Barragán*
